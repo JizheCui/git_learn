@@ -6,3 +6,4 @@ Git tracks changes.
 Git tracks changes one more time.
 Git tracks changes again and again.
 Creating a new branch is quick.
+Creating a new branch is quick AND simple.
