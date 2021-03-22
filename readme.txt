@@ -12,3 +12,4 @@ Creating a new branch is quice AND simple.
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
 cjz is a good boy.
+hhh, bug mode test.
